@@ -71,9 +71,9 @@ focus:
 
 |Proyecto                                                        |Descripción                              |Stack          |
 |----------------------------------------------------------------|-----------------------------------------|---------------|
-|🌐 [existencegod.com](https://existencegod.com)                  |[Descripción breve del proyecto]         |Next.js · React|
-|🪻 [hebreum.com](https://hebreum.com)                            |Plataforma de decants de perfumes de lujo|[Tu stack aquí]|
-|📖 [devocionales-biblicos.com](https://devocionales-biblicos.com)|[Descripción breve del proyecto]         |[Tu stack aquí]|
+|🌐 [existencegod.com](https://existencegod.com)                  |Plataforma con pruebas sobre la existencia de Dios|Next.js · React|
+|🪻 [hebreum.com](https://hebreum.com)                            |Plataforma de decants de perfumes de lujo|Svelte|
+|⚙️ [nexo-ai](https://github.com/Madian2112/nexo-ai/releases)     | Instalador de configuracion centralizada para agentes de IA|go|
 
 -----
 
